@@ -43,6 +43,9 @@ def multigraph(eps, n1):
     plt.show()
 
 def choose_n(eps):
+    """
+    Finds the smallest n such that the difference between the max of the function using n nodes and n + 1 nodes is less than 0.1
+    """
     n1 = 1
     n2 = n1 + 10
     x1 = np.linspace(0, 1, n1)
