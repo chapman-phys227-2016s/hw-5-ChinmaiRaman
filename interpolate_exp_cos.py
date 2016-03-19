@@ -44,4 +44,4 @@ def error(a, b, xp, q):
     return abs(f(xp) - S_k(a, b, xp, q))
 
 def test_discrete():
-    assert(abs(discrete_func(2)[1][-1] - (1.0 / np.exp(1))) < 1e-6), 'Failure'
+    assert(abs(discrete_func(1, 1, 1)[1][-1] - (1.0 / np.exp(1))) < 1e-6), 'Failure'
