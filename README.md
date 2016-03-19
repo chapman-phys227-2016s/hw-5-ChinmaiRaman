@@ -2,7 +2,7 @@
 
 **Author:** Chinmai Raman
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-5-chinmairaman.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-5-chinmairaman)
+[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-5-ChinmaiRaman.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-5-ChinmaiRaman)
 
 **Due date:** 2016/03/08
 
